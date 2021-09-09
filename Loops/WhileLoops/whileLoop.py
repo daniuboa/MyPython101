@@ -26,3 +26,15 @@ while index < len(Letters):
     print(index)
     print(Letters[index])
     index += 1
+print("................................................")
+
+height = 5000
+velocity = 50
+time = 0
+
+while height > 0:
+    height = height - velocity
+    time = time + 1  
+
+print(height)
+print(time)           
