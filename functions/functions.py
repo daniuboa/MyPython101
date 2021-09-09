@@ -21,4 +21,4 @@ print(Var3)
 # Example 2 (Takes two inputs)
 def addOneAddTwo(Number1, Number2):
     Output = Number1 + 1
-    Output += Number2 + 3
+    Output += Number2 + 2
