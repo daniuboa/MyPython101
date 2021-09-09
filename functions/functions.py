@@ -22,3 +22,6 @@ print(Var3)
 def addOneAddTwo(Number1, Number2):
     Output = Number1 + 1
     Output += Number2 + 3
+
+var4 = addOneAddTwo(3, 5)
+print(Var4)
